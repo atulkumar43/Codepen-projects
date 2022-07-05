@@ -7,3 +7,7 @@
 ## 1) Twitter Login Page 
 
 https://codepen.io/Atul__99/pen/YzYKmmB
+
+## 2) Price Card 
+
+https://codepen.io/Atul__99/pen/wvPEBqK
